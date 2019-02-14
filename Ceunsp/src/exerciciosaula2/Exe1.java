@@ -6,7 +6,7 @@ public class Exe1 {
 		
 		for(int i = 150; i <=300; i++)
 			
-		System.out.println("Números são" + i );
+		System.out.println("Números são " + i );
 
 	}
 
