@@ -6,7 +6,6 @@ public class Treinamento {
 	public static void main(String[] args) {
 		
 	int x;
-	int resultado;
 	
 	Scanner entrada = new Scanner (System.in);
 	System.out.println("Digite o Numero " );
